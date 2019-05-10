@@ -3,6 +3,14 @@ import shutil
 import sys
 import time
 
+# ==========================
+# file: ScanFileAndCopy.py
+# version: 1.0.0
+# author: lirong
+# email : aisun#gmail.com
+# ==========================
+
+
 # 想备份的文件扩展名后四位
 file_ext = ['.jpg']  
 
